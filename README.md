@@ -3,6 +3,12 @@ I'm Chadwick Johnson, future Health Data Analyst. Over the years I've developed 
 
 This github page is intended to document my path towards continual learning, and showcase my projects, skills and interests.
 
+### About Me
+
+Enjoys science related topics
+Is Not the football player
+Hasn't fired an Anti Tank Cannon...yet.
+
 ### Projects:
 
 
