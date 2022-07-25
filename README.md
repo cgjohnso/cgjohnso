@@ -3,7 +3,7 @@ I'm Chadwick Johnson, future Health Data Analyst. Over the years I've developed 
 
 This github page is intended to document my path towards continual learning, and showcase my projects, skills and interests.
 
-#### Connect with me:
+### Connect with Me:
 <!--
 **cgjohnso/cgjohnso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
