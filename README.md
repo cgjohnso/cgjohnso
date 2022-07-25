@@ -12,7 +12,7 @@ This github page is intended to document my path towards continual learning, and
 
 ### Projects:
 
-- Click [Here]() to see projects I've worked on
+- Click [Here]() to see projects & case studies I've worked on
 
 
 ### Skills in Training:
