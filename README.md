@@ -6,6 +6,7 @@ This github page is intended to document my path towards continual learning, and
 ### Projects:
 
 ### Connect with Me:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chadwickgjohnson/)](https://www.linkedin.com/in/chadwickgjohnson/)
 <!--
 **cgjohnso/cgjohnso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
