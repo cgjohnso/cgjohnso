@@ -7,7 +7,7 @@ This github page is intended to document my path towards continual learning, and
 
 - Enjoys science related topics
 - Loves Shrimp Lo Mein
-- Am **Not** the football player
+- Am ***Not*** the football player
 
 ### 🛠️ Projects:
 
