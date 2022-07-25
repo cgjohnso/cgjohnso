@@ -5,10 +5,10 @@ This github page is intended to document my path towards continual learning, and
 
 ### About Me
 
--Enjoys science related topics
--Loves Shrimp Lo Mein
--Is Not the football player
--Hasn't fired an anti tank cannon...Yet
+- Enjoys science related topics
+- Loves Shrimp Lo Mein
+- Is Not the football player
+- Hasn't fired an anti tank cannon...Yet
 
 ### Projects:
 
