@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Chadwick Johnson, future Health Data Analyst. I've worked in various healthcare roles over the last 8 years, and during that time I've learned that I have a passion for data, and gleaning insights from it. 
+I'm Chadwick Johnson, future Health Data Analyst. I've worked in various healthcare roles over the years, and during that time I've learned that I have a passion for data, and gleaning insights from it. 
 
 This github page is meant to document my continual learning path and showcase my projects, skills and interests.
 <!--
