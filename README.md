@@ -9,7 +9,7 @@ This github page is intended to document my path towards continual learning, and
 - Loves Shrimp Lo Mein
 - Am Not the football player
 
-### Projects:
+### 🛠️ Projects:
 
 - Click [Here](https://github.com/cgjohnso/portfolio/) to see projects & case studies I've worked on
 
