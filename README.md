@@ -5,7 +5,9 @@ This github page is intended to document my path towards continual learning, and
 
 ### Projects:
 
-### Skills in Training
+
+
+### Skills in Training:
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
