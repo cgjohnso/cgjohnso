@@ -30,10 +30,6 @@ A collection of my projects.
 
 Click the project name to be directed to all related project files.
 
-# Table of Contents
-- [Analyses](#Analyses)
-- [Tableau](#Tableau)
-
 # Analyses
 |Project Name|Description|
 |---|---|
@@ -42,12 +38,6 @@ Click the project name to be directed to all related project files.
 |||
 
 
-# Tableau Visualizations
-|Project Name|Description|
-|---|---|
-|||
-|||
-|||
 
 
 <!--
