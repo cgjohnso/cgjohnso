@@ -24,6 +24,49 @@ This github portfolio is intended to document my path towards continual learning
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chadwickgjohnson/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chadwickgjohnson@gmail.com)
 
+
+# Portfolio
+A collection of my projects.
+
+Click the project name to be directed to all related project files.
+
+# Table of Contents
+- [Data Analyses](#Data_Analyses)
+- [SQL](#SQL)
+- [Python](#Python)
+- [Tableau](#Tableau)
+
+# Data_Analyses
+|Project Name|Description|
+|---|---|
+|[Scrutinizing The World Bank Climate Action Plan](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan)|Analysis of the World Bank's Climate Action Plan 2021-2025 strategy that focuses resources on reducing greenhouse gas emissions from high per capita emitting countries. Report produced by Tableau, and Powerpoint.|
+|||
+|||
+
+# SQL
+|Project Name|Description|
+|---|---|
+|||
+|||
+|||
+
+# Python
+
+|Project Name|Description|
+|---|---|
+|||
+|||
+|||
+|||
+
+# Tableau
+|Project Name|Description|
+|---|---|
+|||
+|||
+|||
+
+
 <!--
 **cgjohnso/cgjohnso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
