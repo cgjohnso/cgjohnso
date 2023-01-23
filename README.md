@@ -31,9 +31,15 @@ A collection of my projects.
 Click the project name to be directed to all related project files.
 
 ## [Scrutinizing The World Bank Climate Action Plan](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan)
-### Ingesting World Bank greenhouse gas emission Excel data set into Tableau to produce insights on the viability of the World Banks Climate Action Plan 2021-2025
+### Ingesting World Bank greenhouse gas emissions Excel data set into Tableau to produce insights on the viability of the World Banks Climate Action Plan 2021-2025
 <img src ="https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/Factorysmoke.png" width="300">
-Analysis of the World Bank's Climate Action Plan 2021-2025 strategy that focuses resources on reducing greenhouse gas emissions from high per capita emitting countries. Report produced by Tableau, and Powerpoint.
+
+### Business Problem
+
+The World Bank has set a goal in its Climate Action Plan 2021-2025 to focus resources on reducing emissions from high CO2 per capita emitting countries. I review the global CO2 emissions dataset to determine if this strategy will have the ended outcomes of reducing global greenhouse gases.
+
+### Results
+ysis of the World Bank's Climate Action Plan 2021-2025 strategy that focuses resources on reducing greenhouse gas emissions from high per capita emitting countries. Report produced by Tableau, and Powerpoint.
 
 
 
