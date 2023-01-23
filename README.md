@@ -31,12 +31,12 @@ A collection of my projects.
 Click the project name to be directed to all related project files.
 
 ## Table of Contents
-- [Scrutinizing_The_World_Bank_Climate_Action_Plan](##Scrutinizing_The_World_Bank_Climate_Action_Plan)
+- [Scrutinizing_The_World_Bank_Climate_Action_Plan](#Scrutinizing_The_World_Bank_Climate_Action_Plan)
 - [SQL](#SQL)
 - [Python](#Python)
 - [Tableau](#Tableau)
 
-## [Scrutinizing_The_World_Bank_Climate_Action_Plan](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan)
+# [Scrutinizing_The_World_Bank_Climate_Action_Plan](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan)
 ### Ingesting World Bank greenhouse gas emissions Excel data set into Tableau to produce insights on the viability of the World Banks Climate Action Plan 2021-2025
 <img src ="https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/Factorysmoke.png" width="300">
 
