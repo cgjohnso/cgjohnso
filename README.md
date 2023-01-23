@@ -39,7 +39,8 @@ Click the project name to be directed to all related project files.
 The World Bank has set a goal in its Climate Action Plan 2021-2025 to focus resources on reducing emissions from high CO2 per capita emitting countries. I review the global CO2 emissions dataset to determine if this strategy will have the ended outcomes of reducing global greenhouse gases.
 
 ### Results
-ysis of the World Bank's Climate Action Plan 2021-2025 strategy that focuses resources on reducing greenhouse gas emissions from high per capita emitting countries. Report produced by Tableau, and Powerpoint.
+
+I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization that segmented countries into categories based on emission levels. A power point was created, and a final analyses of the data was performed via a narrarated presentation that was uploaded to Youtube.
 
 
 
