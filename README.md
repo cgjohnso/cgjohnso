@@ -36,7 +36,7 @@ Click the project name to be directed to all related project files.
 
 ### Business Problem
 
-The World Bank has set a goal in its Climate Action Plan 2021-2025 to focus resources on reducing emissions from high CO2 per capita emitting countries. I review the global CO2 emissions dataset to determine if this strategy will have the ended outcomes of reducing global greenhouse gases.
+The World Bank has set a goal in its Climate Action Plan 2021-2025 to focus resources on reducing emissions from high CO2 per capita emitting countries. I review the global CO2 emissions dataset to determine if this strategy will have the intended outcomes of reducing global greenhouse gases.
 
 ### Results
 
