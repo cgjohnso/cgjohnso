@@ -31,35 +31,18 @@ A collection of my projects.
 Click the project name to be directed to all related project files.
 
 # Table of Contents
-- [Data Analyses](#Data_Analyses)
-- [SQL](#SQL)
-- [Python](#Python)
+- [Analyses](#Analyses)
 - [Tableau](#Tableau)
 
-# Data_Analyses
+# Analyses
 |Project Name|Description|
 |---|---|
 |[Scrutinizing The World Bank Climate Action Plan](/cgjohnso/blob/main/Scrutinizing-The-World-Bank-Climate-Action-Plan)|Analysis of the World Bank's Climate Action Plan 2021-2025 strategy that focuses resources on reducing greenhouse gas emissions from high per capita emitting countries. Report produced by Tableau, and Powerpoint.|
 |||
 |||
 
-# SQL
-|Project Name|Description|
-|---|---|
-|||
-|||
-|||
 
-# Python
-
-|Project Name|Description|
-|---|---|
-|||
-|||
-|||
-|||
-
-# Tableau
+# Tableau Visualizations
 |Project Name|Description|
 |---|---|
 |||
