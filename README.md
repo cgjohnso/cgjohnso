@@ -31,7 +31,7 @@ A collection of my projects.
 Click the project name to be directed to all related project files.
 
 # Table of Contents
-- [1) Scrutinizing The World Bank Climate Action Plan](## Scrutinizing The World Bank Climate Action Plan)
+- [1) Scrutinizing The World Bank Climate Action Plan](##Scrutinizing The World Bank Climate Action Plan)
 - [SQL](#SQL)
 - [Python](#Python)
 - [Tableau](#Tableau)
