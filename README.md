@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Chadwick Johnson, future Health Data Analyst. Over the years I've developed a passion for data, and gleaning insights from it. I am enrolled in the Google Data Analytics Certificate program, and plan to continue self study.
+I'm Chadwick Johnson, future Health Data Analyst. I've been a health information management professional for the majority of my working life, and am making the transition to data analytics. Over the years I've developed a passion for data, and gleaning insights from it. I started my journey in the Google Data Analytics Certificate program, and to continue self study.
 
 This github page is intended to document my path towards continual learning, and showcase my projects, skills, and interests.
 
