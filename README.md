@@ -22,8 +22,10 @@ This github page is intended to document my path towards continual learning, and
 [!Gmail](mailto:emersonpess011108@gmail.com?)<img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 ### Connect with Me:
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chadwickgjohnson/)](https://www.linkedin.com/in/chadwickgjohnson/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chadwickgjohnson/)
 
+](https://www.linkedin.com/in/chadwickgjohnson/)
+[![name](link to image on GH)](link to your URL)
 <!--
 **cgjohnso/cgjohnso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
