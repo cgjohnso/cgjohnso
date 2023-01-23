@@ -3,15 +3,17 @@ I'm Chadwick Johnson. I started my journey in Health Data Analytics through the 
 
 This github portfolio is intended to document my path towards continual learning, and showcase my projects, skills, and interests.
 
+### 🛠️ Projects:
+
+- [Click](#Portfolio) to see projects & case studies I've worked on
+
 ### 🚨 About Me
 
 - Enjoys science related topics
 - Loves Shrimp Lo Mein
 - Am ***Not*** the football player
 
-### 🛠️ Projects:
 
-- [Click](#Portfolio) to see projects & case studies I've worked on
 
 
 ### Skills in Training:
