@@ -11,7 +11,7 @@ This github portfolio is intended to document my path towards continual learning
 
 ### 🛠️ Projects:
 
-- Click [Here](https://github.com/cgjohnso/portfolio/) to see projects & case studies I've worked on
+- Click [Portfolio](#Portfolio) to see projects & case studies I've worked on
 
 
 ### Skills in Training:
