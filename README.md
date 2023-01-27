@@ -7,7 +7,7 @@ Thank you for taking the time to visit my site, and remember to...
 
 ![Image](https://github.com/cgjohnso/cgjohnso.gethub.io/blob/main/images/staycurious.png)
 
-# 🛠️ [Projects & Case Studies I've Worked On](https://cgjohnso.github.io/cgjohnso.gethub.io/)
+# 🛠️ [Projects & Case Studies I've Worked On](https://cgjohnso.github.io/cgjohnso.gethub.io/portfolio.html)
 
 # 🚨 About Me
 
