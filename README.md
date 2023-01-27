@@ -9,7 +9,7 @@ Thank you for taking the time to visit my site, and remember to...
 
 ### 🛠️ Projects:
 
-- [Click](https://cgjohnso.github.io/cgjohnso.gethub.io/)) to see projects & case studies I've worked on
+- [Click](https://cgjohnso.github.io/cgjohnso.gethub.io/) to see projects & case studies I've worked on
 
 ### 🚨 About Me
 
