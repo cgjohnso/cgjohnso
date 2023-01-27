@@ -5,6 +5,8 @@ This portfolio is intended to document my path towards continual learning, and s
 
 Thank you for taking the time to visit my site, and remember to...
 
+![Image](https://github.com/cgjohnso/cgjohnso.gethub.io/blob/main/images/staycurious.png)
+
 ### 🛠️ Projects:
 
 - [Click](#Portfolio) to see projects & case studies I've worked on
