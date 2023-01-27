@@ -29,26 +29,6 @@ Thank you for taking the time to visit my site, and remember to...
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chadwickgjohnson@gmail.com)
 
 
-# Portfolio
-A collection of my projects.
-
-Click the project name to be directed to all related project files.
-
-## Table of Contents
-- [Scrutinizing_The_World_Bank_Climate_Action_Plan](#Scrutinizing_The_World_Bank_Climate_Action_Plan)
-
-
-# [Scrutinizing_The_World_Bank_Climate_Action_Plan](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan)
-### Ingested World Bank greenhouse gas emissions Excel data set into Tableau to produce insights on the viability of the World Bank's Climate Action Plan 2021-2025
-<img src ="https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/Factorysmoke.png" width="300">
-
-### Business Problem
-
-To combat climate change, the World Bank has set a goal in its Climate Action Plan 2021-2025 to focus resources on reducing emissions from high CO2 per capita emitting countries. I review the global CO2 emissions dataset to determine if this strategy will have the intended outcomes of reducing global greenhouse gases.
-
-### Results
-
-I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization that segmented countries into categories based on emission levels. A power point was created, and a final analysis of the data was performed via a narrarated presentation that was uploaded to Youtube.
 
 
 
